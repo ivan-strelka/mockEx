@@ -19,7 +19,6 @@ import io.restassured.RestAssured;
  * 2. add req response mapping: \Documents\wiremock_standalone_jar\mappings
  * 3. run the test 
  * 
- * @author Sheetal_Singh
  */
 public class A_Basic {
 
